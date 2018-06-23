@@ -1,0 +1,8 @@
+apple
+orange
+pineapple
+avocado
+water
+juice
+strawberry
+mocha
